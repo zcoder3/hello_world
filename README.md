@@ -1,3 +1,3 @@
 # hello_world
 This is my first time to use GitHub
-Now, it'ssecond time.
+Now, it'second time.
